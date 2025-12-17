@@ -10,5 +10,5 @@ Tools For Copy File From Android Without Using MTP Copy. It Using Android Debugg
   |"S23 FE Milik Mahmud"|Nama Folder Penyimpanan|
   |-IgnoreSize|Jika File Sudah ada di SKip|
   |PRJDB|Nama Database yang akan di Backup|
-  |Excl *cache*\|Mengecualikan Folder cache|
-  |Excl *files*\|Mengecualikan Folder files|
+  |Excl *cache*\ |Mengecualikan Folder cache|
+  |Excl *files*\ |Mengecualikan Folder files|
